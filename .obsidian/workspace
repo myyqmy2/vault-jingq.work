@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "REACT HOOKS/useState.md",
+            "file": "REACT HOOKS/useEffect.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT HOOKS/useState.md",
+                "file": "REACT HOOKS/useEffect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "bbea871312fbcc0a",
   "lastOpenFiles": [
+    "REACT HOOKS/useEffect.md",
     "REACT HOOKS/useState.md",
     "Untitled.md",
     "README.md"
